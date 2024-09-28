@@ -1,0 +1,7 @@
+# ninja log v6
+4	101	7491513186728858	CMakeFiles/hello_world.dir/helloWorld.c.obj	609181c7891ec2a2
+103	263	7491513187724388	hello_world.exe	4d0476312ce05703
+7	101	7491513578421547	CMakeFiles/hello_world.dir/helloWorld.c.obj	609181c7891ec2a2
+101	268	7491513579366051	hello_world.exe	4d0476312ce05703
+9	104	7491518623935762	CMakeFiles/hello_world.dir/helloWorld.c.obj	609181c7891ec2a2
+105	281	7491518624884855	hello_world.exe	4d0476312ce05703
