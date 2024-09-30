@@ -1,0 +1,3 @@
+C:/Users/erik/IES_codebase/learning_c/Chapter1/terminal_echo/cmake-build-debug/CMakeFiles/terminal_echo.dir
+C:/Users/erik/IES_codebase/learning_c/Chapter1/terminal_echo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/erik/IES_codebase/learning_c/Chapter1/terminal_echo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
